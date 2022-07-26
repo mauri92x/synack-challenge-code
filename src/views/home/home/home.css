@@ -1,0 +1,13 @@
+.container{
+    width:700px ;
+}
+
+
+.container .container__img{
+    max-width:600px ;
+}
+
+
+.homeInput .homeInput__input{
+    width:600px ;
+}
